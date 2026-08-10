@@ -1,0 +1,6 @@
+_deploy/
+*.xlsx
+*.pdf
+Thumbs.db
+desktop.ini
+~$*

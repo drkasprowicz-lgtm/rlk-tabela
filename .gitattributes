@@ -1,0 +1,4 @@
+# A peca publicada tem de ser byte a byte a peca auditada: o SHA-256 registrado no
+# parecer de liberacao e a prova de que o corretor recebe o que foi aprovado.
+# Sem isto o git converte LF->CRLF no Windows e o arquivo servido muda de hash.
+* -text
